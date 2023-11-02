@@ -122,7 +122,7 @@ const Benefits = ({ setSelectedPage }: Props) => {
                 Sapien nec sagittis aliquam malesuada bibendum arcu vitae. Consectetur libero id faucibus nisl tincidunt eget nullam non nisi. 
                 Cursus in hac habitasse platea dictumst. Lectus arcu bibendum at varius. Eget arcu dictum varius duis at consectetur.
               </p>
-              <p className="mb-5">
+              <p className="mt-5">
                 Urna cursus eget nunc scelerisque viverra mauris in aliquam sem. 
                 Adipiscing commodo elit at imperdiet. Nibh tellus molestie nunc non blandit massa enim nec dui.
                 Molestie at elementum eu facilisis sed odio morbi quis. Tristique senectus et netus et malesuada fames. 
